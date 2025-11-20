@@ -28,8 +28,8 @@ Assurez-vous d’avoir installé :
 
 1. **Cloner le projet :**
     ```bash
-    git clone <repository-url>
-    cd dashboard-react
+    git clone https://github.com/BCHAYMAE/react-dashboard-seomaniak-test.git
+    cd test
     ```
 2. **Installer les dépendances :**
     ```bash
